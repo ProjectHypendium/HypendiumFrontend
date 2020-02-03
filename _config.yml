@@ -1,0 +1,17 @@
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+exclude:
+  - index.html
+  - README.*
+  - tracker.html
+  - faq.html
+  - LICENSE
+  - tempIndex.html
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"

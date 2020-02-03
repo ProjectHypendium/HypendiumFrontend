@@ -1,0 +1,9 @@
+- name: Home
+  link: /
+  target: _self
+- name: Downloads
+  link: /downloads/
+  target: _self
+- name: GitHub
+  link: https://github.com/ProjectHypendium/HypendiumFrontend
+  target: _blank
