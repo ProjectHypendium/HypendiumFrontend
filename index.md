@@ -40,26 +40,26 @@ In order to ensure the Archive's existence for as long as possible, we hope to e
 With some Best Friends content already missing from official sources prior to compiling this archive, it might have all been lost without the help of the following users:
 
 - Solidus - *Machinima*
-- Bourbonne Black - *Flophouse - Bible Black ([Available to Flophouse Patreons](https://www.patreon.com/posts/tier-update-25650746?utm_medium=social&utm_source=twitter&utm_campaign=postshare))*
-- RandomKid1015 - [*Hitman (2016)*](https://www.youtube.com/watch?v=LJ0cnkQc4gI)
-- Brandon 'btsensei' Tang - [*Biker Mice From Mars*](https://www.youtube.com/watch?v=MUHuDMHIO-Q)
-- SuperJesus4 - [*Let's Watch MGS4*](https://www.dailymotion.com/video/xyqkga)
+- Bourbonne Black - *Flophouse - Bible Black ([Available to Flophouse Patreons](https://www.patreon.com/posts/tier-update-25650746){:target="_blank" rel="noopener"})*
+- RandomKid1015 - [*Hitman (2016)*](https://www.youtube.com/watch?v=LJ0cnkQc4gI){:target="_blank" rel="noopener"} 
+- Brandon 'btsensei' Tang - [*Biker Mice From Mars*](https://www.youtube.com/watch?v=MUHuDMHIO-Q){:target="_blank" rel="noopener"} 
+- SuperJesus4 - [*Let's Watch MGS4*](https://www.dailymotion.com/video/xyqkga){:target="_blank" rel="noopener"} 
 - Woomy21 - SBFP Torrent
 
-We would also like to thank the editors of the [Zaibatsupedia Wiki](https://zaibatsupedia.fandom.com/wiki/Zaibatsupedia), for providing dates and contributing to our content list; The Reddit users of [r/DataHoarders](https://www.reddit.com/r/DataHoarder/) and [r/Torrents](https://www.reddit.com/r/torrents/) for putting up with all of our dumb questions; and especially scrublords like you, whose caring, dedication and hard work made this project possible.
+We would also like to thank the editors of the [Zaibatsupedia Wiki](https://zaibatsupedia.fandom.com/wiki/Zaibatsupedia){:target="_blank" rel="noopener"} , for providing dates and contributing to our content list; The Reddit users of [r/DataHoarders](https://www.reddit.com/r/DataHoarder/){:target="_blank" rel="noopener"}  and [r/Torrents](https://www.reddit.com/r/torrents/){:target="_blank" rel="noopener"}  for putting up with all of our dumb questions; and especially scrublords like you, whose caring, dedication and hard work made this project possible.
 
 And finally, a very special thanks to the Friends formerly known as Super Best: **Matthew Kowalewski, Patrick Boivin, Liam Allen-Miller, and Woolie Madden**. Thank you for all of the joy, chuckles and blunders you've given us throughout the years, and for your blessings to complete this project. We wish you all the best of luck in your future projects!
 
 ## Where Are They Now?
 
-Matt Kowalewski [YouTube](https://www.youtube.com/channel/UCiP_FwGyJQ_6P8k5ON5mncQ) [Twitter](https://twitter.com/MattMcMuscles) [Twitch](https://www.twitch.tv/matthewmcmuscles)
+Matt Kowalewski [YouTube](https://www.youtube.com/channel/UCiP_FwGyJQ_6P8k5ON5mncQ){:target="_blank" rel="noopener"} [Twitter](https://twitter.com/MattMcMuscles){:target="_blank" rel="noopener"} [Twitch](https://www.twitch.tv/matthewmcmuscles){:target="_blank" rel="noopener"}
 
-Pat Boivin [YouTube](https://www.youtube.com/channel/UCpmNJI_KhjkpXw1UPmtC3-Q) [Twitter](https://twitter.com/AngriestPat) [Twitch](https://www.twitch.tv/angriestpat)
+Pat Boivin [YouTube](https://www.youtube.com/channel/UCpmNJI_KhjkpXw1UPmtC3-Q){:target="_blank" rel="noopener"} [Twitter](https://twitter.com/PatStaresAt){:target="_blank" rel="noopener"} [Twitch](https://www.twitch.tv/patstaresat){:target="_blank" rel="noopener"}
 
-Liam Allen-Miller [YouTube](https://www.youtube.com/channel/UC7zkWVkHBSMGpfHVgaFqr1A) [Twitter](https://twitter.com/rssliam) [Twitch](https://www.twitch.tv/risingsuperstream)
+Liam Allen-Miller [YouTube](https://www.youtube.com/channel/UC7zkWVkHBSMGpfHVgaFqr1A){:target="_blank" rel="noopener"} [Twitter](https://twitter.com/rssliam){:target="_blank" rel="noopener"} [Twitch](https://www.twitch.tv/risingsuperstream){:target="_blank" rel="noopener"}
 
-Woolie Madden [YouTube](https://www.youtube.com/channel/UCyOJzQzyDGihKpTO3-zyhYg) [Twitter](https://twitter.com/wooliewoolz) [Twitch](https://www.twitch.tv/woolieversus)
+Woolie Madden [YouTube](https://www.youtube.com/channel/UCyOJzQzyDGihKpTO3-zyhYg){:target="_blank" rel="noopener"} [Twitter](https://twitter.com/wooliewoolz){:target="_blank" rel="noopener"} [Twitch](https://www.twitch.tv/woolieversus){:target="_blank" rel="noopener"}
 
 ## Contact The Scribatsu
 
-You can send questions or comments to the Scribatsu at our <a href="mailto:ScribatsuMail@gmail.com">email</a> or [Twitter](https://twitter.com/TheScribatsu) accounts. Follow us for all Scribatsu news and releases!
+You can send questions or comments to the Scribatsu at our <a href="mailto:ScribatsuMail@gmail.com">email</a> or [Twitter](https://twitter.com/TheScribatsu){:target="_blank" rel="noopener"} accounts. Follow us for all Scribatsu news and releases!
