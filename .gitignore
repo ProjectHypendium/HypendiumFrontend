@@ -59,3 +59,10 @@ build-iPhoneSimulator/
 Gemfile.lock
 .jekyll-cache
 _site/
+
+# Download files
+*.mkv
+*.png
+*.mp3
+*.mp4
+*.back
