@@ -1,0 +1,18 @@
+{% capture file-name %}
+{{ include.file-name }}
+{% endcapture %}
+{% capture file-url %}
+/assets/superbestfriendsplay/{{ page.asset-dir }}/{{ include.file-name }}
+{% endcapture %}
+{{head}}
+<tr>
+  {% if page.contains-thumbnails %}
+  <td><img src="{{ file-url }}.jpg" alt="{{ file-name }}"</td>
+  {% else %}
+  <td></td>
+  {% endif %}
+  <td><a href="{{ file-url }}.{{ page.asset-type }}">{{ file-name }}</a></td>
+  <td>{{ include.size }}</td>
+  <td>{{ include.md5 }}</td>
+  <td>{{ include.sha-1 }}</td>
+</tr>
